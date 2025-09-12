@@ -1,0 +1,1 @@
+{"error":"Failed to generate Aadhaar card","details":"Error generating Aadhaar card: 'latin-1' codec can't encode characters in position 0-3: ordinal not in range(256)\nFailed to generate Aadhaar card\n"}
